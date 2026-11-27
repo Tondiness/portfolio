@@ -19,7 +19,7 @@
 | [**DOLO Koura**](projets/dolo-koura.md) | Vote en ligne payant pour un concours de chant, classement en temps réel | React, Node.js, Socket.IO, MySQL, paiement LigdiCash | En ligne — [dolokoura.com](https://dolokoura.com) |
 | [**Gestion des dépenses**](projets/gestion-depenses.md) | Demandes, validation et suivi des dépenses d'une entreprise | React, Node.js, Socket.IO, MySQL | En ligne — [app.somajeux.ml](https://app.somajeux.ml/) (accès réservé) |
 | [**Motion School Academy**](projets/motion-school-academy.md) | Site et back-office d'une académie de motion design | React, Node.js, Socket.IO, MySQL, PWA | En ligne — [motionschoolacademy.com](https://motionschoolacademy.com/) |
-| [**Forum**](projets/forum.md) | Site officiel d'un forum : inscriptions, billets QR code, actualités | React, Node.js, Express | Réalisé |
+| [**Forum JCI**](projets/forum.md) | Site du Forum national de l'entrepreneuriat : inscriptions, billets QR code, actualités | React, Node.js, Express | En ligne — [jcibamakoelite.ml](https://jcibamakoelite.ml/) |
 | [**Tontineo**](projets/tontineo.md) | Gestion de tontine : cycles, dépôts, retraits, OTP WhatsApp | React, TypeScript, Node.js, MySQL | Projet de Master — [code public](https://github.com/Tondiness/Fintech-IAM) |
 
 ---

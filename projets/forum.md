@@ -1,8 +1,10 @@
-# Forum — site officiel d'un événement
+# Forum national de l'entrepreneuriat — site officiel
 
-**Rôle :** conception, développement full stack
+**Site :** [jcibamakoelite.ml](https://jcibamakoelite.ml/) · **Organisateur :** JCI Bamako Élite · **Rôle :** conception, développement full stack
 
-Site officiel d'un forum professionnel : présentation de l'événement, actualités, inscription en ligne et billet électronique contrôlé à l'entrée.
+Site officiel du Forum national de l'entrepreneuriat, à Bamako : présentation de l'événement, programme, actualités, inscription en ligne et billet électronique contrôlé à l'entrée.
+
+![Page d'accueil du Forum](../captures/forum/accueil.jpg)
 
 ## Fonctionnalités
 
@@ -27,6 +29,12 @@ flowchart LR
 |---|---|
 | Front-end | React, Vite, Tailwind CSS, Framer Motion, QR codes |
 | API | Node.js, Express, JWT, Helmet, Multer, limitation du nombre de requêtes |
+
+## Captures du site
+
+| Programme et présentation | Inscription par QR code | Mobile |
+|---|---|---|
+| ![Programme](../captures/forum/a-propos.jpg) | ![Inscription](../captures/forum/inscription-qr.jpg) | ![Version mobile](../captures/forum/mobile.jpg) |
 
 ---
 
