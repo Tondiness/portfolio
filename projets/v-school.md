@@ -4,6 +4,8 @@
 
 V-School rassemble la vie d'un établissement scolaire dans un seul outil : élèves, caisse, notes, bulletins, documents officiels et emplois du temps. Une même plateforme sert plusieurs écoles, chacune avec ses propres données.
 
+**Expérience utilisateur :** chaque rôle (direction, secrétariat, comptabilité, professeurs, familles) ne voit que ce qui le concerne. Avec la version desktop, l'école continue de travailler même sans Internet.
+
 ## Fonctionnalités
 
 - **Élèves et classes** : annuaire, photo, matricule, parent, import Excel.

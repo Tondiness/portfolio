@@ -4,6 +4,8 @@
 
 V-Immo est un SaaS pour les agences immobilières : gestion des biens, des bailleurs et des locataires, encaissement des loyers et suivi des impayés. Chaque agence a son espace, et ses bailleurs et locataires ont aussi le leur.
 
+**Expérience utilisateur :** interface pensée d'abord pour le téléphone. Une agence de démonstration permet d'essayer l'application sans créer de compte.
+
 ## Fonctionnalités
 
 - **Quatre espaces** : administrateur de la plateforme, agence, bailleur, locataire.

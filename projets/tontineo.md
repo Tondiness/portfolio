@@ -4,6 +4,8 @@
 
 Application de tontine digitalisée : les agents enregistrent les dépôts et les retraits des clients, cycle par cycle, et l'administration suit tous les mouvements financiers. Le projet a suivi une démarche « spécification d'abord » : règles métier, modèle de données et tests sont documentés.
 
+**Expérience utilisateur :** connexion par numéro de téléphone et code reçu sur WhatsApp, adaptée aux habitudes des clients de tontine.
+
 ## Fonctionnalités
 
 - **Trois espaces** : administrateur, agent, client.

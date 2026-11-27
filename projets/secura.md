@@ -4,6 +4,8 @@
 
 Secura permet à une entreprise de suivre la présence de ses équipes en temps réel : pointage au bureau, sur le terrain ou entre plusieurs sites, horaires, retards, congés et paie. Elle existe en application web installable et en application mobile.
 
+**Expérience utilisateur :** l'employé pointe en un geste depuis son téléphone, avec sa biométrie. Les RH voient d'un coup d'œil les présences, retards et absences du jour.
+
 ## Fonctionnalités
 
 - **Tableau de bord RH** : présences, absences, retards et ponctualité du jour, du mois ou de l'année.

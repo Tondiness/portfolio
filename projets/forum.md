@@ -4,6 +4,8 @@
 
 Site officiel du Forum national de l'entrepreneuriat, à Bamako : présentation de l'événement, programme, actualités, inscription en ligne et billet électronique contrôlé à l'entrée.
 
+**Expérience utilisateur :** le participant s'inscrit depuis son téléphone et reçoit un billet QR code. À l'entrée, un simple scan suffit.
+
 ![Page d'accueil du Forum](../captures/forum/accueil.jpg)
 
 ## Fonctionnalités

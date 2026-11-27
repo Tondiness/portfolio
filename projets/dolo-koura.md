@@ -4,6 +4,8 @@
 
 DOLO Koura est un concours de chant au Mali. La plateforme permet au public de voter pour ses candidats en payant par mobile money, et affiche le classement en temps réel.
 
+**Expérience utilisateur :** le public vote en quelques gestes depuis son téléphone, paie par mobile money et voit le classement bouger aussitôt.
+
 | Site (ordinateur) | Mobile |
 |---|---|
 | ![Page d'accueil de DOLO Koura](../captures/dolo-koura/accueil.jpg) | <img src="../captures/dolo-koura/mobile.jpg" alt="DOLO Koura sur mobile" width="260"> |

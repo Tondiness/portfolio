@@ -2,6 +2,8 @@
 
 **Développeur web et mobile full stack**, basé à Bamako (Mali). Je conçois, développe et mets en ligne des applications de gestion pour des écoles, des entreprises et des événements.
 
+Chaque application est pensée pour offrir une **bonne expérience utilisateur** : des parcours courts, des écrans lisibles et une utilisation aussi simple sur téléphone que sur ordinateur. Je conçois mes interfaces sur **Figma**, puis je les développe.
+
 📞 +223 84 34 19 11 · ✉️ azimoutondi8@gmail.com · 📍 Bamako, Mali
 
 > Ce dépôt est une **vitrine** : il présente mes projets avec captures, fonctionnalités et architecture.
@@ -28,6 +30,7 @@
 
 | Domaine | Technologies |
 |---|---|
+| Design UI/UX | Figma (maquettes, prototypes, composants), parcours utilisateur, design graphique |
 | Front-end | React, JavaScript, TypeScript, Vite, Tailwind CSS, MUI, HTML5 / CSS3, applications installables (PWA) |
 | Back-end & API | Node.js, Express, API REST, JWT, temps réel (Socket.IO), Sequelize, validation (Joi, Zod), génération PDF et Excel |
 | Mobile | React Native (Expo) : géolocalisation, biométrie, notifications ; Flutter |

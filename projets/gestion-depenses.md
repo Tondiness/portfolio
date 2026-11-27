@@ -4,6 +4,8 @@
 
 Cette application remplace le suivi des dépenses sur tableur. Les employés soumettent leurs demandes, les responsables les valident, et la direction suit les budgets en temps réel.
 
+**Expérience utilisateur :** une demande se crée en quelques champs, chaque validateur est prévenu en temps réel, et chacun suit l'avancement de sa demande.
+
 ## Fonctionnalités
 
 - **Demandes de dépenses** avec validation en plusieurs étapes (ou refus motivé) et historique.
