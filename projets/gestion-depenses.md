@@ -1,6 +1,6 @@
 # Gestion des dépenses — application d'entreprise
 
-**Statut :** en production pour une entreprise malienne (usage interne) · **Rôle :** conception, développement full stack, déploiement
+**Site :** [app.somajeux.ml](https://app.somajeux.ml/) (accès réservé aux employés de l'entreprise) · **Rôle :** conception, développement full stack, déploiement
 
 Cette application remplace le suivi des dépenses sur tableur. Les employés soumettent leurs demandes, les responsables les valident, et la direction suit les budgets en temps réel.
 

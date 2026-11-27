@@ -17,8 +17,8 @@
 | [**V-School**](projets/v-school.md) | Logiciel de gestion scolaire multi-établissements, avec version desktop hors ligne | React, Node.js, MySQL, Docker, Electron | En ligne — [v-school.fr](https://v-school.fr) |
 | [**V-Immo**](projets/v-immo.md) | Gestion immobilière pour agences : bailleurs, locataires, loyers, quittances | React, TypeScript, Node.js, MySQL | En ligne — [v-immo.ml](https://v-immo.ml) |
 | [**DOLO Koura**](projets/dolo-koura.md) | Vote en ligne payant pour un concours de chant, classement en temps réel | React, Node.js, Socket.IO, MySQL, paiement LigdiCash | En ligne — [dolokoura.com](https://dolokoura.com) |
-| [**Gestion des dépenses**](projets/gestion-depenses.md) | Demandes, validation et suivi des dépenses d'une entreprise | React, Node.js, Socket.IO, MySQL | En production (usage interne) |
-| [**Motion School Academy**](projets/motion-school-academy.md) | Site et back-office d'une académie de motion design | React, Node.js, Socket.IO, MySQL, PWA | Réalisé |
+| [**Gestion des dépenses**](projets/gestion-depenses.md) | Demandes, validation et suivi des dépenses d'une entreprise | React, Node.js, Socket.IO, MySQL | En ligne — [app.somajeux.ml](https://app.somajeux.ml/) (accès réservé) |
+| [**Motion School Academy**](projets/motion-school-academy.md) | Site et back-office d'une académie de motion design | React, Node.js, Socket.IO, MySQL, PWA | En ligne — [motionschoolacademy.com](https://motionschoolacademy.com/) |
 | [**Forum**](projets/forum.md) | Site officiel d'un forum : inscriptions, billets QR code, actualités | React, Node.js, Express | Réalisé |
 | [**Tontineo**](projets/tontineo.md) | Gestion de tontine : cycles, dépôts, retraits, OTP WhatsApp | React, TypeScript, Node.js, MySQL | Projet de Master — [code public](https://github.com/Tondiness/Fintech-IAM) |
 

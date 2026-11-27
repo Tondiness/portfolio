@@ -1,8 +1,10 @@
 # Motion School Academy — site et back-office d'une académie
 
-**Rôle :** conception, développement full stack
+**Site :** [motionschoolacademy.com](https://motionschoolacademy.com/) · **Rôle :** conception, développement full stack
 
 Site public d'une académie de formation en motion design (After Effects, 2D et 3D), avec un back-office pour gérer les formations et suivre les inscriptions.
+
+![Page d'accueil de Motion School Academy](../captures/motion-school-academy/accueil.jpg)
 
 ## Fonctionnalités
 
@@ -32,6 +34,12 @@ flowchart LR
 | API | Node.js, Express, Sequelize, JWT, Socket.IO, Nodemailer |
 | Données | MySQL |
 | Tests | Vitest |
+
+## Captures du site
+
+| Formations | Réalisations des apprenants | Mobile |
+|---|---|---|
+| ![Formations](../captures/motion-school-academy/formations.jpg) | ![Réalisations](../captures/motion-school-academy/realisations.jpg) | ![Version mobile](../captures/motion-school-academy/mobile.jpg) |
 
 ---
 

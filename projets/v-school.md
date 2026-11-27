@@ -39,11 +39,17 @@ flowchart LR
 | Desktop | Electron, serveur Express embarqué, SQLite, mises à jour automatiques |
 | Déploiement | Docker, Nginx |
 
-## Capture
+## Captures
+
+| Site (ordinateur) | Mobile |
+|---|---|
+| ![Page d'accueil de v-school.fr](../captures/v-school/site-accueil.jpg) | <img src="../captures/v-school/site-mobile.jpg" alt="V-School sur mobile" width="260"> |
+
+**Tableau de bord de la direction**
 
 ![Tableau de bord de V-School](../captures/v-school/tableau-de-bord.png)
 
-<sub>Les chiffres de l'établissement sont floutés.</sub>
+<sub>Sur les captures, les chiffres de l'établissement sont floutés.</sub>
 
 ---
 
