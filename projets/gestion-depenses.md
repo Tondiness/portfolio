@@ -2,6 +2,8 @@
 
 **Site :** [app.somajeux.ml](https://app.somajeux.ml/) (accès réservé aux employés de l'entreprise) · **Rôle :** conception, développement full stack, déploiement
 
+**Maquettes Figma :** [ouvrir dans Figma](https://www.figma.com/design/eJ7QCqlWCPgr0EGjcSMxYM) (écran de connexion)
+
 Cette application remplace le suivi des dépenses sur tableur. Les employés soumettent leurs demandes, les responsables les valident, et la direction suit les budgets en temps réel.
 
 **Expérience utilisateur :** une demande se crée en quelques champs, chaque validateur est prévenu en temps réel, et chacun suit l'avancement de sa demande.

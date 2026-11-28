@@ -2,6 +2,8 @@
 
 **Site :** [v-immo.ml](https://v-immo.ml) (agence de démonstration accessible sans compte) · **Rôle :** conception, développement full stack
 
+**Maquettes Figma :** [ouvrir dans Figma](https://www.figma.com/design/Egy17DVwHbL6tOrQ7lYCqr) (accueil et 6 écrans de l’agence de démonstration)
+
 V-Immo est un SaaS pour les agences immobilières : gestion des biens, des bailleurs et des locataires, encaissement des loyers et suivi des impayés. Chaque agence a son espace, et ses bailleurs et locataires ont aussi le leur.
 
 **Expérience utilisateur :** interface pensée d'abord pour le téléphone. Une agence de démonstration permet d'essayer l'application sans créer de compte.

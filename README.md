@@ -24,6 +24,19 @@ Chaque application est pensée pour offrir une **bonne expérience utilisateur**
 | [**Forum JCI**](projets/forum.md) | Site du Forum national de l'entrepreneuriat : inscriptions, billets QR code, actualités | React, Node.js, Express | En ligne — [jcibamakoelite.ml](https://jcibamakoelite.ml/) |
 | [**Tontineo**](projets/tontineo.md) | Gestion de tontine : cycles, dépôts, retraits, OTP WhatsApp | React, TypeScript, Node.js, MySQL | Projet de Master — [code public](https://github.com/Tondiness/Fintech-IAM) |
 
+
+### Maquettes Figma
+
+Les interfaces de chaque projet sont disponibles en maquettes Figma (versions ordinateur et mobile) :
+[DOLO Koura](https://www.figma.com/design/0ceZZAsmJ7Uh8l8TJ8KRwm) ·
+[Secura](https://www.figma.com/design/HZ7HJwTfTM6T8AlJ5KLSFL) ·
+[V-School](https://www.figma.com/design/jOtGdZPSyIfQlu4xCMBHBc) ·
+[V-Immo](https://www.figma.com/design/Egy17DVwHbL6tOrQ7lYCqr) ·
+[Gestion des dépenses](https://www.figma.com/design/eJ7QCqlWCPgr0EGjcSMxYM) ·
+[Motion School Academy](https://www.figma.com/design/8nEDd93grqnVLf4OM3cpHF) ·
+[Forum JCI](https://www.figma.com/design/ppCMWPSCZ61km9vFRN59VW) ·
+[Tontineo](https://www.figma.com/design/g0fx85kA0p1UG00yQOgLnq)
+
 ---
 
 ## Compétences

@@ -2,6 +2,8 @@
 
 **Site :** [dolokoura.com](https://dolokoura.com) · **Rôle :** conception, développement full stack, déploiement
 
+**Maquettes Figma :** [ouvrir dans Figma](https://www.figma.com/design/0ceZZAsmJ7Uh8l8TJ8KRwm) (accueil ordinateur et mobile)
+
 DOLO Koura est un concours de chant au Mali. La plateforme permet au public de voter pour ses candidats en payant par mobile money, et affiche le classement en temps réel.
 
 **Expérience utilisateur :** le public vote en quelques gestes depuis son téléphone, paie par mobile money et voit le classement bouger aussitôt.

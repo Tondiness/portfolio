@@ -2,6 +2,8 @@
 
 **Site :** [app-secura.com](https://app-secura.com) · **Cadre :** Startup SecureTech CORPORATE · **Rôle :** conception UX/UI, développement full stack, déploiement
 
+**Maquettes Figma :** [ouvrir dans Figma](https://www.figma.com/design/HZ7HJwTfTM6T8AlJ5KLSFL) (accueil et 4 écrans de l’entreprise de démonstration)
+
 Secura permet à une entreprise de suivre la présence de ses équipes en temps réel : pointage au bureau, sur le terrain ou entre plusieurs sites, horaires, retards, congés et paie. Elle existe en application web installable et en application mobile.
 
 **Expérience utilisateur :** l'employé pointe en un geste depuis son téléphone, avec sa biométrie. Les RH voient d'un coup d'œil les présences, retards et absences du jour.

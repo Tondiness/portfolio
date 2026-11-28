@@ -2,6 +2,8 @@
 
 **Code source public :** [github.com/Tondiness/Fintech-IAM](https://github.com/Tondiness/Fintech-IAM) · **Cadre :** projet du Master spécialisé, IAM Bamako (2026)
 
+**Maquettes Figma :** [ouvrir dans Figma](https://www.figma.com/design/g0fx85kA0p1UG00yQOgLnq) (connexion des trois espaces)
+
 Application de tontine digitalisée : les agents enregistrent les dépôts et les retraits des clients, cycle par cycle, et l'administration suit tous les mouvements financiers. Le projet a suivi une démarche « spécification d'abord » : règles métier, modèle de données et tests sont documentés.
 
 **Expérience utilisateur :** connexion par numéro de téléphone et code reçu sur WhatsApp, adaptée aux habitudes des clients de tontine.

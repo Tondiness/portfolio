@@ -2,6 +2,8 @@
 
 **Site :** [motionschoolacademy.com](https://motionschoolacademy.com/) · **Rôle :** conception, développement full stack
 
+**Maquettes Figma :** [ouvrir dans Figma](https://www.figma.com/design/8nEDd93grqnVLf4OM3cpHF) (accueil ordinateur et mobile)
+
 Site public d'une académie de formation en motion design (After Effects, 2D et 3D), avec un back-office pour gérer les formations et suivre les inscriptions.
 
 **Expérience utilisateur :** un site animé, à l'image du motion design, qui reste léger et installable sur téléphone. L'inscription se fait en quelques étapes.
