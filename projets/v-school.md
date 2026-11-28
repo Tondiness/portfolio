@@ -2,7 +2,7 @@
 
 **Site :** [v-school.fr](https://v-school.fr) · **Rôle :** conception, développement full stack, déploiement
 
-**Maquettes Figma :** [ouvrir dans Figma](https://www.figma.com/design/jOtGdZPSyIfQlu4xCMBHBc) (accueil, plus 6 écrans de l’établissement de démonstration : tableau de bord, étudiants, frais et paiements, classes, professeurs, notes ; noms remplacés par des noms fictifs)
+**Maquettes Figma :** [ouvrir dans Figma](https://www.figma.com/design/jOtGdZPSyIfQlu4xCMBHBc) (37 écrans : connexion, tableau de bord, étudiants et profil, paiement, notes et bulletins, emplois du temps, classes, professeurs, finances, modules et paramètres ; établissement de démonstration, données remplacées par des données fictives)
 
 V-School rassemble la vie d'un établissement scolaire dans un seul outil : élèves, caisse, notes, bulletins, documents officiels et emplois du temps. Une même plateforme sert plusieurs écoles, chacune avec ses propres données.
 
